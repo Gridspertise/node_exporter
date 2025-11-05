@@ -32,7 +32,7 @@ require (
 	howett.net/plist v1.0.1
 )
 
-replace github.com/prometheus/procfs => github.com/Gridspertise/procfs v0.0.0-20251105142243-e58041945bb0
+replace github.com/prometheus/procfs => github.com/Gridspertise/procfs v0.0.0-20251105133237-ad7b2955302a
 
 require (
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b // indirect
