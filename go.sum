@@ -1,5 +1,5 @@
-github.com/Gridspertise/procfs v0.0.0-20251105133237-ad7b2955302a h1:7xhLoBIXPM5pBkfMsEauxCYWwm47SfJp6873Fceom0o=
-github.com/Gridspertise/procfs v0.0.0-20251105133237-ad7b2955302a/go.mod h1:M0aotyiemPhBCM0z5w87kL22CxfcH05ZpYlu+b4J7mw=
+github.com/Gridspertise/procfs v0.0.0-20251105142243-e58041945bb0 h1:F4VqXIAZ8BcY6/VBHy0bZfGneRyTBQyM9I562UkgUlw=
+github.com/Gridspertise/procfs v0.0.0-20251105142243-e58041945bb0/go.mod h1:M0aotyiemPhBCM0z5w87kL22CxfcH05ZpYlu+b4J7mw=
 github.com/alecthomas/kingpin/v2 v2.4.0 h1:f48lwail6p8zpO1bC4TxtqACaGqHYA22qkHjHpqDjYY=
 github.com/alecthomas/kingpin/v2 v2.4.0/go.mod h1:0gyi0zQnjuFk8xrkNKamJoyUo382HRL7ATRpFZCw6tE=
 github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b h1:mimo19zliBX/vSQ6PWWSL9lK8qwHozUj03+zLoEB8O0=
